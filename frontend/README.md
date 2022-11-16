@@ -1,95 +1,68 @@
-# React.js CRUD App with React Router & Axios
+# Angular 14 example project: CRUD with Rest API
 
-Build a React.js CRUD Application to consume Web API, display and modify data with Router, Axios & Bootstrap.
+Build an Angular 14 CRUD App example to consume Rest APIs, display, modify & search data.
 
-React Tutorial Application in that:
+Tutorial Application in that:
 - Each Tutorial has id, title, description, published status.
 - We can create, retrieve, update, delete Tutorials.
 - There is a Search bar for finding Tutorials by title.
 
-![react-crud-example-web-api-demo](react-crud-example-web-api-demo.png)
+![angular-14-crud-example](angular-14-crud-example.png)
+
+Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/`. The app will automatically reload if you change any of the source files.
 
 For instruction, please visit:
-> [React CRUD example to consume Web API](https://bezkoder.com/react-crud-web-api/)
-
-Related Posts:
-> [React Typescript CRUD example to consume Web API](https://bezkoder.com/react-typescript-axios/)
-
-> [React Redux CRUD App example with Rest API](https://bezkoder.com/react-redux-crud-example/)
-
-> [React (Hooks) CRUD example to consume Web API](https://bezkoder.com/react-hooks-crud-axios-api/)
-
-> [React Table example: CRUD App with react-table v7](https://bezkoder.com/react-table-example-hooks-crud/)
-
-Using Material UI instead of Bootstrap:
-> [React Material UI examples with a CRUD Application](https://bezkoder.com/react-material-ui-examples-crud/)
+> [Angular example: CRUD Application with Rest API](https://www.bezkoder.com/angular-14-crud-example/)
 
 More Practice:
-> [React Pagination example](https://bezkoder.com/react-pagination-material-ui/)
+> [Angular Pagination example | ngx-pagination](https://www.bezkoder.com/angular-14-pagination-ngx/)
 
-> [React File Upload example](https://bezkoder.com/react-file-upload-axios/)
+> [Angular JWT Authentication & Authorization with Web API](https://www.bezkoder.com/angular-13-jwt-auth/)
 
-> [React JWT Authentication & Authorization example](https://bezkoder.com/react-jwt-auth/)
+> [Angular File upload example with Progress bar](https://www.bezkoder.com/angular-14-file-upload/)
 
-> [React + Redux: JWT Authentication & Authorization example](https://bezkoder.com/react-redux-jwt-auth/)
+> [Angular Multiple Files upload example with Progress Bar](https://www.bezkoder.com/angular-13-multiple-file-upload/)
 
-Fullstack with Node.js Express:
-> [React.js + Node.js Express + MySQL](https://bezkoder.com/react-node-express-mysql/)
+> [Angular Form Validation example (Reactive Forms)](https://www.bezkoder.com/angular-14-form-validation/)
 
-> [React.js + Node.js Express + PostgreSQL](https://bezkoder.com/react-node-express-postgresql/)
+Fullstack with Node:
 
-> [React.js + Node.js Express + MongoDB](https://bezkoder.com/react-node-express-mongodb-mern-stack/)
+> [Angular + Node Express + MySQL example](https://www.bezkoder.com/angular-14-node-js-express-mysql/)
+
+> [Angular + Node Express + PostgreSQL example](https://www.bezkoder.com/angular-14-node-js-express-postgresql/)
+
+> [Angular + Node Express + MongoDB example](https://www.bezkoder.com/mean-stack-crud-example-angular-14/)
+
+> [Angular + Node Express: File upload example](https://www.bezkoder.com/angular-13-node-express-file-upload/)
 
 Fullstack with Spring Boot:
-> [React.js + Spring Boot + MySQL](https://bezkoder.com/react-spring-boot-crud/)
 
-> [React.js + Spring Boot + PostgreSQL](https://bezkoder.com/spring-boot-react-postgresql/)
+> [Angular + Spring Boot + H2 Embedded Database example](https://www.bezkoder.com/spring-boot-angular-14-crud/)
 
-> [React.js + Spring Boot + MongoDB](https://bezkoder.com/react-spring-boot-mongodb/)
+> [Angular + Spring Boot + MySQL example](https://www.bezkoder.com/spring-boot-angular-14-mysql/)
+
+> [Angular + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-14-postgresql/)
+
+> [Angular + Spring Boot + MongoDB example](https://www.bezkoder.com/angular-13-spring-boot-mongodb/)
+
+> [Angular + Spring Boot: File upload example](https://www.bezkoder.com/angular-13-spring-boot-file-upload/)
 
 Fullstack with Django:
+> [Angular + Django example](https://bezkoder.com/django-angular-13-crud-rest-framework/)
 
-> [React.js + Django Rest Framework](https://bezkoder.com/django-react-axios-rest-framework/)
+Security:
+> [Angular + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-13-spring-boot-jwt-auth/)
 
-Serverless:
-> [React Firebase CRUD App with Realtime Database](https://bezkoder.com/react-firebase-crud/)
+> [Angular + Node.js Express: JWT Authentication and Authorization example](https://www.bezkoder.com/node-js-angular-13-jwt-auth/)
 
-> [React Firestore CRUD App example | Firebase Cloud Firestore](https://bezkoder.com/react-firestore-crud/)
+Serverless with Firebase:
+> [Angular Firebase CRUD with Realtime DataBase | AngularFireDatabase](https://www.bezkoder.com/angular-13-firebase-crud/)
+
+> [Angular Firestore CRUD example with AngularFireStore](https://www.bezkoder.com/angular-13-firestore-crud-angularfirestore/)
+
+> [Angular Firebase Storage: File Upload/Display/Delete example](https://www.bezkoder.com/angular-13-firebase-storage/)
 
 Integration (run back-end & front-end on same server/port)
-> [How to integrate React.js with Spring Boot](https://bezkoder.com/integrate-reactjs-spring-boot/)
+> [How to integrate Angular with Node Restful Services](https://bezkoder.com/integrate-angular-12-node-js/)
 
-> [Integrate React with Node.js Express on same Server/Port](https://bezkoder.com/integrate-react-express-same-server-port/)
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-### Set port
-.env
-```
-PORT=8081
-```
-
-## Project setup
-
-In the project directory, you can run:
-
-```
-npm install
-# or
-yarn install
-```
-
-or
-
-### Compiles and hot-reloads for development
-
-```
-npm start
-# or
-yarn start
-```
-
-Open [http://localhost:8081](http://localhost:8081) to view it in the browser.
-
-The page will reload if you make edits.
+> [How to Integrate Angular with Spring Boot Rest API](https://bezkoder.com/integrate-angular-12-spring-boot/)
